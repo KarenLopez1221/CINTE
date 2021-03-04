@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ORABD.SYS"
+  DTS:DTSID="{CB1D0BF1-C3E0-400E-A1D3-044CC80DF4F2}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=ORABD;User ID=SYS;Provider=SSISOLEDB.3;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADMExtfi84UmDmgfvxh1mswAAAAACAAAAAAAQZgAAAAEAACAAAAAy3eO5v3/VAnznQ1tA0P3IPOihuh9qz62luLENVA7VUAAAAAAOgAAAAAIAACAAAABigybT458vcc7Rd4CgBI7viEwH4ElCoWrIkqzgHxA16YAAAABoNRpoycpYnR6gbrbaIwUtWSg6dYt2YBnAKMw/JOWaVZXjydRqxwiT84J8aLOlUTXm6vnNIZxMYFo+Zu6rFNAUKjbeqmul1lDDqeLcLqxv9absCGE3+V0oKnww7BmhTNvCRqoesqYWtF+gZAMFRZrZvJ/vsWUdJtqia38JGLH47EAAAAB5j3OLhRHbONG2afMBx/If+yoMZghDc6CjS7wtzGO/QMpK5N8mmU9ZjU7RPg4XvhkF+0mYYA65avL5luBSqr9M</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
